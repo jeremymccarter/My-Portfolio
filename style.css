@@ -90,7 +90,8 @@ video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
-	background-color: #3e6080
+	background-color: #3e6080;
+	font-size: 19px;
 }
 
 /* HTML5 display-role reset for older browsers */
